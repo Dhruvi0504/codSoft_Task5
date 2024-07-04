@@ -1,0 +1,2 @@
+# codSoft_Task5
+ HANDWRITTEN TEXT  GENERATION
